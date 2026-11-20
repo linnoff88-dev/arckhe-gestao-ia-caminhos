@@ -1,0 +1,1042 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.430
+Hoy cualquier equipo puede crear un agente en una tarde.
+
+2
+00:00:02.480 --> 00:00:04.470
+Lo que frena a la empresa es gestionarlo.
+
+3
+00:00:04.520 --> 00:00:07.350
+En 2026 aprendimos a crear agentes.
+
+4
+00:00:07.400 --> 00:00:09.650
+2027 es el año de aprender a gestionarlos.
+
+5
+00:00:09.700 --> 00:00:13.790
+Y poner un agente en un proceso viejo solo hace que el error llegue más rápido.
+
+6
+00:00:14.099 --> 00:00:14.199
+más rápido.
+
+7
+00:00:14.199 --> 00:00:15.879
+Ocho competencias, diez módulos,
+
+8
+00:00:15.879 --> 00:00:18.179
+cursos y proyectos abiertos y gratuitos.
+
+9
+00:00:18.179 --> 00:00:19.959
+En este video te muestro qué cambia
+
+10
+00:00:19.959 --> 00:00:20.599
+en la gestión,
+
+11
+00:00:20.599 --> 00:00:21.959
+qué enseña cada curso,
+
+12
+00:00:21.959 --> 00:00:23.899
+qué son los proyectos y cómo aplicarlo
+
+13
+00:00:23.899 --> 00:00:24.559
+en tu trabajo,
+
+14
+00:00:24.559 --> 00:00:25.899
+con tu equipo y en tu empresa.
+
+15
+00:00:25.899 --> 00:00:27.599
+Y al final te llevas el primer
+
+16
+00:00:27.599 --> 00:00:28.899
+ejercicio para esta semana:
+
+17
+00:00:28.899 --> 00:00:29.939
+desarmar un proceso.
+
+18
+00:00:29.939 --> 00:00:31.699
+La gestión ganó un tercer objeto.
+
+19
+00:00:31.699 --> 00:00:33.459
+De mil novecientos ochenta al dos mil,
+
+20
+00:00:33.459 --> 00:00:34.559
+gestión de personas:
+
+21
+00:00:34.559 --> 00:00:36.159
+puesto, responsabilidad,
+
+22
+00:00:36.159 --> 00:00:37.619
+límites y evaluación.
+
+23
+00:00:37.619 --> 00:00:39.759
+Del dos mil al dos mil veinte,
+
+24
+00:00:39.759 --> 00:00:41.099
+gestión de procesos.
+
+25
+00:00:41.099 --> 00:00:44.459
+Después, transformación digital y automatización.
+
+26
+00:00:44.459 --> 00:00:47.419
+En 2025 y 2026,
+
+27
+00:00:47.599 --> 00:00:48.959
+creación de agentes:
+
+28
+00:00:48.959 --> 00:00:51.479
+prompts, skills, contexto,
+
+29
+00:00:51.479 --> 00:00:52.599
+herramientas
+
+30
+00:00:52.599 --> 00:00:53.439
+y memoria.
+
+31
+00:00:53.439 --> 00:00:55.139
+En 2027,
+
+32
+00:00:55.139 --> 00:00:58.099
+la empresa coordina al mismo tiempo personas,
+
+33
+00:00:58.099 --> 00:01:00.659
+agentes, modelos, procesos
+
+34
+00:01:00.659 --> 00:01:02.599
+y presupuesto computacional.
+
+35
+00:01:02.599 --> 00:01:04.399
+Crear agentes es fácil.
+
+36
+00:01:04.399 --> 00:01:06.019
+Lo que frena es lo que viene
+
+37
+00:01:06.019 --> 00:01:07.959
+después: quién responde por el agente,
+
+38
+00:01:07.959 --> 00:01:09.419
+qué puede hacer por su cuenta,
+
+39
+00:01:09.419 --> 00:01:11.339
+cómo medir si está funcionando bien y
+
+40
+00:01:11.339 --> 00:01:12.859
+cuánto cuesta cada resultado.
+
+41
+00:01:12.859 --> 00:01:14.719
+Gestionar agentes se parece mucho a la
+
+42
+00:01:14.719 --> 00:01:15.779
+vieja gestión de personas,
+
+43
+00:01:15.779 --> 00:01:17.299
+solo que con más medición.
+
+44
+00:01:17.299 --> 00:01:18.399
+Cambian las palabras,
+
+45
+00:01:18.399 --> 00:01:19.279
+no la lógica.
+
+46
+00:01:19.279 --> 00:01:20.539
+Para el empleado había puesto,
+
+47
+00:01:20.539 --> 00:01:21.739
+responsabilidad,
+
+48
+00:01:21.799 --> 00:01:22.719
+herramientas,
+
+49
+00:01:22.719 --> 00:01:24.319
+límites y evaluación.
+
+50
+00:01:24.319 --> 00:01:25.439
+Para el agente:
+
+51
+00:01:25.439 --> 00:01:27.239
+rol, objetivo, contexto,
+
+52
+00:01:27.239 --> 00:01:29.519
+herramientas, autonomía y evaluación.
+
+53
+00:01:29.519 --> 00:01:30.739
+Los mismos elementos,
+
+54
+00:01:30.739 --> 00:01:34.099
+más dos: contexto explícito y autonomía gradual.
+
+55
+00:01:34.099 --> 00:01:35.319
+Mira cómo funciona.
+
+56
+00:01:35.319 --> 00:01:37.759
+En contabilidad, quien registra no aprueba:
+
+57
+00:01:37.759 --> 00:01:39.219
+el agente llega hasta la firma,
+
+58
+00:01:39.219 --> 00:01:40.179
+nunca más allá.
+
+59
+00:01:40.179 --> 00:01:41.319
+En el ámbito legal,
+
+60
+00:01:41.319 --> 00:01:43.259
+el agente prepara y el abogado decide
+
+61
+00:01:43.259 --> 00:01:44.219
+y firma.
+
+62
+00:01:44.219 --> 00:01:46.759
+En salud, algunas decisiones quedan fuera del
+
+63
+00:01:46.759 --> 00:01:47.659
+alcance del agente,
+
+64
+00:01:47.659 --> 00:01:49.439
+y ese límite se define antes de
+
+65
+00:01:49.439 --> 00:01:50.239
+ponerlo en marcha.
+
+66
+00:01:50.239 --> 00:01:51.859
+Ahora viene el mensaje más difícil:
+
+67
+00:01:51.859 --> 00:01:54.139
+no pongas agentes a ejecutar procesos viejos
+
+68
+00:01:54.139 --> 00:01:55.039
+más rápido.
+
+69
+00:01:55.039 --> 00:01:56.739
+Rediseña la empresa para la velocidad de
+
+70
+00:01:56.739 --> 00:01:57.379
+los agentes.
+
+71
+00:01:57.379 --> 00:01:59.399
+La pregunta que lo cambia todo es:
+
+72
+00:01:59.399 --> 00:02:00.819
+si hoy tuviera personas,
+
+73
+00:02:00.819 --> 00:02:03.359
+agentes y automatizaciones disponibles,
+
+74
+00:02:03.359 --> 00:02:04.979
+¿este proceso seguiría existiendo así?
+
+75
+00:02:04.979 --> 00:02:06.179
+Tres reglas.
+
+76
+00:02:06.179 --> 00:02:08.099
+No automatices un proceso malo:
+
+77
+00:02:08.099 --> 00:02:10.139
+primero, desarma lo que existe solo por
+
+78
+00:02:10.139 --> 00:02:10.659
+costumbre.
+
+79
+00:02:10.659 --> 00:02:13.259
+Las personas dirigen y los agentes ejecutan:
+
+80
+00:02:13.259 --> 00:02:14.919
+decide, etapa por etapa,
+
+81
+00:02:14.919 --> 00:02:15.879
+quién hace qué.
+
+82
+00:02:15.879 --> 00:02:18.119
+Y promover y revertir son etapas,
+
+83
+00:02:18.119 --> 00:02:20.199
+no accidentes: el proceso tiene versiones,
+
+84
+00:02:20.199 --> 00:02:21.019
+como el software.
+
+85
+00:02:21.019 --> 00:02:22.419
+Es el LOOP-R:
+
+86
+00:02:22.419 --> 00:02:24.559
+ejecutar, observar, criticar,
+
+87
+00:02:24.559 --> 00:02:26.959
+proponer, experimentar, validar,
+
+88
+00:02:26.959 --> 00:02:28.479
+promover y repetir.
+
+89
+00:02:28.479 --> 00:02:29.859
+También está la cultura.
+
+90
+00:02:29.859 --> 00:02:32.439
+Anthropic construye dos culturas al mismo tiempo:
+
+91
+00:02:32.439 --> 00:02:34.319
+una para las personas y otra para
+
+92
+00:02:34.319 --> 00:02:35.759
+la propia IA.
+
+93
+00:02:35.759 --> 00:02:37.559
+En enero de 2026,
+
+94
+00:02:37.559 --> 00:02:39.479
+publicó una constitución para Claude,
+
+95
+00:02:39.479 --> 00:02:41.719
+con valores, prioridades y el porqué de
+
+96
+00:02:41.719 --> 00:02:42.379
+cada uno.
+
+97
+00:02:42.379 --> 00:02:43.379
+En tu empresa,
+
+98
+00:02:43.379 --> 00:02:45.339
+eso se convierte en tres prácticas.
+
+99
+00:02:45.339 --> 00:02:47.419
+Escribe una constitución para cada agente:
+
+100
+00:02:47.419 --> 00:02:49.219
+una página con su misión,
+
+101
+00:02:49.219 --> 00:02:51.819
+sus límites y cuándo escalar.
+
+102
+00:02:51.819 --> 00:02:53.199
+Define límites en verde,
+
+103
+00:02:53.199 --> 00:02:54.459
+amarillo y rojo:
+
+104
+00:02:54.459 --> 00:02:56.019
+qué resuelve por su cuenta,
+
+105
+00:02:56.019 --> 00:02:57.999
+qué prepara para que alguien lo apruebe
+
+106
+00:02:57.999 --> 00:02:59.859
+y qué pasa directamente al gerente.
+
+107
+00:02:59.859 --> 00:03:01.319
+Y mide con casos de prueba:
+
+108
+00:03:01.319 --> 00:03:03.539
+una revisión que no mejora la puntuación
+
+109
+00:03:03.539 --> 00:03:05.239
+en los mismos casos no mejoró el
+
+110
+00:03:05.239 --> 00:03:05.659
+agente.
+
+111
+00:03:05.659 --> 00:03:07.399
+Para medir tu punto de partida,
+
+112
+00:03:07.399 --> 00:03:09.639
+el área presenta las ocho competencias del
+
+113
+00:03:09.639 --> 00:03:11.259
+gestor de IA,
+
+114
+00:03:11.259 --> 00:03:12.819
+en el orden en que las usas.
+
+115
+00:03:12.819 --> 00:03:14.959
+Las primeras cuatro deciden qué hará el
+
+116
+00:03:14.959 --> 00:03:15.959
+agente.
+
+117
+00:03:15.959 --> 00:03:17.679
+Estrategia: qué resultado queremos,
+
+118
+00:03:17.679 --> 00:03:20.359
+antes de elegir la herramienta.
+
+119
+00:03:20.359 --> 00:03:21.659
+Arquitectura del trabajo:
+
+120
+00:03:21.659 --> 00:03:24.279
+¿este proceso debería seguir existiendo?
+
+121
+00:03:24.279 --> 00:03:27.119
+Delegación: qué le entrego exactamente al agente,
+
+122
+00:03:27.119 --> 00:03:28.739
+con objetivo, contexto,
+
+123
+00:03:28.739 --> 00:03:31.079
+herramientas, plazo y evidencia de que terminó.
+
+124
+00:03:31.079 --> 00:03:33.699
+Y orquestación: uno o varios agentes,
+
+125
+00:03:33.699 --> 00:03:34.979
+en serie o en paralelo,
+
+126
+00:03:34.979 --> 00:03:36.959
+con un supervisor o un revisor.
+
+127
+00:03:37.139 --> 00:03:39.459
+Las últimas cuatro deciden si sigue trabajando.
+
+128
+00:03:39.459 --> 00:03:40.959
+Gobernanza: qué hace por su cuenta,
+
+129
+00:03:40.959 --> 00:03:42.919
+qué confirma y qué nunca ejecuta.
+
+130
+00:03:42.919 --> 00:03:45.259
+Economía: cuánto cuesta producir el resultado,
+
+131
+00:03:45.259 --> 00:03:46.919
+no cuánto cuesta una llamada.
+
+132
+00:03:46.919 --> 00:03:48.439
+Un agente barato que se equivoca y
+
+133
+00:03:48.439 --> 00:03:50.779
+necesita dos intentos costó el doble de
+
+134
+00:03:50.779 --> 00:03:51.839
+lo que indica la tabla.
+
+135
+00:03:51.839 --> 00:03:53.319
+Eso es una cuenta de gestión,
+
+136
+00:03:53.319 --> 00:03:54.939
+no de programación.
+
+137
+00:03:54.939 --> 00:03:56.259
+Evaluación: ¿está bien,
+
+138
+00:03:56.259 --> 00:03:57.599
+comparado con qué?
+
+139
+00:03:57.599 --> 00:03:59.419
+Calidad, tiempo, costo,
+
+140
+00:03:59.419 --> 00:04:01.779
+retrabajo y cuánto hizo sin detenerse.
+
+141
+00:04:01.779 --> 00:04:04.899
+Y evolución: ¿qué aprendimos en esta ejecución?
+
+142
+00:04:04.899 --> 00:04:06.219
+Ahora, los cursos.
+
+143
+00:04:06.219 --> 00:04:08.639
+La columna vertebral es el curso Gestión
+
+144
+00:04:08.639 --> 00:04:09.819
+de IA:
+
+145
+00:04:09.819 --> 00:04:11.699
+delegación, responsabilidad,
+
+146
+00:04:11.699 --> 00:04:14.059
+memoria, herramientas, autonomía,
+
+147
+00:04:14.059 --> 00:04:16.259
+confianza y evaluación de agentes.
+
+148
+00:04:16.259 --> 00:04:18.679
+Para empezar, Llegaron los Superagentes,
+
+149
+00:04:18.679 --> 00:04:19.679
+en seis clases,
+
+150
+00:04:19.679 --> 00:04:21.819
+muestra qué cambia en tu trabajo cuando
+
+151
+00:04:21.819 --> 00:04:24.939
+la IA deja de esperar órdenes.
+
+152
+00:04:24.939 --> 00:04:27.699
+Superagentes, de la IA que responde a
+
+153
+00:04:27.699 --> 00:04:29.339
+la IA que trabaja,
+
+154
+00:04:29.339 --> 00:04:30.239
+en ocho clases,
+
+155
+00:04:30.239 --> 00:04:32.939
+es para quien decide qué responsabilidad delegar,
+
+156
+00:04:32.939 --> 00:04:35.599
+con alcance, matriz de autonomía y ficha
+
+157
+00:04:35.599 --> 00:04:36.339
+de confianza.
+
+158
+00:04:36.339 --> 00:04:38.919
+Y el Arquitecto del Trabajo con IA,
+
+159
+00:04:38.919 --> 00:04:40.099
+también en ocho clases,
+
+160
+00:04:40.099 --> 00:04:42.459
+rediseña procesos para que las personas dirijan
+
+161
+00:04:42.459 --> 00:04:43.799
+y los agentes ejecuten.
+
+162
+00:04:43.799 --> 00:04:45.469
+Para la evolución,
+
+163
+00:04:45.469 --> 00:04:47.799
+LOOP-R enseña a construir una empresa que
+
+164
+00:04:47.799 --> 00:04:50.139
+aprende sola: es el módulo diez completo.
+
+165
+00:04:50.139 --> 00:04:51.799
+Para economía y gobernanza,
+
+166
+00:04:51.799 --> 00:04:54.259
+Copilot más Agentes para Empresas va desde
+
+167
+00:04:54.259 --> 00:04:57.279
+el trabajo con IA hasta la automatización
+
+168
+00:04:57.279 --> 00:04:58.679
+de los procesos empresariales,
+
+169
+00:04:58.679 --> 00:05:00.399
+con indicadores y gobernanza.
+
+170
+00:05:00.399 --> 00:05:01.679
+Las Guías de Clínica,
+
+171
+00:05:01.679 --> 00:05:03.779
+Contabilidad y Abogacía muestran límites,
+
+172
+00:05:03.779 --> 00:05:06.299
+alcances y revisión humana en tres profesiones.
+
+173
+00:05:06.299 --> 00:05:08.159
+Y Empresas de 2027,
+
+174
+00:05:08.159 --> 00:05:09.919
+en nueve clases de quince minutos,
+
+175
+00:05:09.919 --> 00:05:11.699
+va del caso de Anthropic a la
+
+176
+00:05:11.699 --> 00:05:12.799
+constitución de tu agente.
+
+177
+00:05:12.799 --> 00:05:13.919
+¿Dónde aplicarlo?
+
+178
+00:05:13.919 --> 00:05:15.199
+Al liderar un equipo,
+
+179
+00:05:15.199 --> 00:05:17.259
+rediseñar tu área o ayudar a otra
+
+180
+00:05:17.259 --> 00:05:18.339
+empresa a empezar.
+
+181
+00:05:18.339 --> 00:05:19.539
+Y los proyectos,
+
+182
+00:05:19.539 --> 00:05:21.279
+abiertos y con guía.
+
+183
+00:05:21.279 --> 00:05:23.419
+Gestoria es un simulador de gestión de
+
+184
+00:05:23.419 --> 00:05:24.499
+una empresa agéntica:
+
+185
+00:05:24.499 --> 00:05:25.619
+objetivos,
+
+186
+00:05:25.619 --> 00:05:27.919
+agentes, procesos, costos,
+
+187
+00:05:27.919 --> 00:05:30.459
+errores, aprobaciones y mejoras.
+
+188
+00:05:30.459 --> 00:05:33.089
+Es el proyecto final de la formación.
+
+189
+00:05:33.089 --> 00:05:35.119
+LOOP-R tiene un proyecto con guía para
+
+190
+00:05:35.119 --> 00:05:36.739
+instalar el ciclo de mejora.
+
+191
+00:05:36.739 --> 00:05:39.279
+Arquitecto de Ejecución decide entre paralelo y
+
+192
+00:05:39.279 --> 00:05:41.619
+secuencial, con supervisor o revisor.
+
+193
+00:05:41.619 --> 00:05:43.879
+El Kit del Arquitecto de Agentes tiene
+
+194
+00:05:43.879 --> 00:05:46.259
+siete plantillas que convierten la especificación de
+
+195
+00:05:46.259 --> 00:05:47.379
+un agente en una página:
+
+196
+00:05:47.379 --> 00:05:49.219
+es la ficha de delegación.
+
+197
+00:05:49.219 --> 00:05:51.039
+Agentic OS organiza
+
+198
+00:05:51.039 --> 00:05:52.759
+agentes, skills y procesos en un solo
+
+199
+00:05:52.759 --> 00:05:53.139
+lugar.
+
+200
+00:05:53.139 --> 00:05:54.819
+Y el kit de Copilot más Agentes
+
+201
+00:05:54.819 --> 00:05:56.679
+trae materiales listos para tu empresa.
+
+202
+00:05:56.679 --> 00:05:57.639
+¿Cómo unir todo?
+
+203
+00:05:57.639 --> 00:05:59.999
+La Formación Gestión de IA
+
+204
+00:05:59.999 --> 00:06:01.199
+2027
+
+205
+00:06:01.299 --> 00:06:03.279
+lo organiza en diez módulos:
+
+206
+00:06:03.279 --> 00:06:05.039
+desde la empresa agéntica,
+
+207
+00:06:05.039 --> 00:06:07.139
+pasando por el proceso no es sagrado,
+
+208
+00:06:07.139 --> 00:06:08.679
+el equipo de agentes,
+
+209
+00:06:08.679 --> 00:06:10.719
+la delegación, la economía,
+
+210
+00:06:10.719 --> 00:06:12.899
+la gobernanza y la gestión basada en
+
+211
+00:06:12.899 --> 00:06:15.599
+evidencia, hasta la empresa que aprende.
+
+212
+00:06:15.599 --> 00:06:16.919
+En el proyecto final,
+
+213
+00:06:16.919 --> 00:06:19.799
+Gestoria, tomas un proceso y recorres catorce
+
+214
+00:06:19.799 --> 00:06:21.799
+pasos: entiendes el objetivo,
+
+215
+00:06:21.799 --> 00:06:24.039
+eliminas etapas, rediseñas,
+
+216
+00:06:24.039 --> 00:06:26.919
+repartes el trabajo entre personas y agentes,
+
+217
+00:06:26.919 --> 00:06:29.679
+defines permisos, costos y métricas,
+
+218
+00:06:29.679 --> 00:06:30.619
+ejecutas,
+
+219
+00:06:30.619 --> 00:06:33.639
+evalúas y mejoras con LOOP-R.
+
+220
+00:06:33.639 --> 00:06:34.959
+La situación real:
+
+221
+00:06:34.959 --> 00:06:37.279
+la formación es la organización de una
+
+222
+00:06:37.279 --> 00:06:37.799
+tesis.
+
+223
+00:06:37.799 --> 00:06:39.759
+Entre el setenta y cinco y el
+
+224
+00:06:39.759 --> 00:06:41.159
+ochenta por ciento de la base ya
+
+225
+00:06:41.159 --> 00:06:42.519
+existe en los cursos abiertos.
+
+226
+00:06:42.519 --> 00:06:43.979
+Así que hoy el camino es empezar
+
+227
+00:06:43.979 --> 00:06:44.859
+por los cursos,
+
+228
+00:06:44.859 --> 00:06:46.179
+en el orden de los módulos.
+
+229
+00:06:46.179 --> 00:06:47.619
+Te lo prometí al principio.
+
+230
+00:06:47.619 --> 00:06:49.359
+El mejor primer módulo es un proceso
+
+231
+00:06:49.359 --> 00:06:50.079
+de tu empresa.
+
+232
+00:06:50.079 --> 00:06:51.419
+Elige un proceso que hoy se hace
+
+233
+00:06:51.419 --> 00:06:52.379
+con personas.
+
+234
+00:06:52.379 --> 00:06:54.299
+Desármalo: qué existe por costumbre,
+
+235
+00:06:54.299 --> 00:06:56.059
+qué es un requisito real y qué
+
+236
+00:06:56.059 --> 00:06:58.259
+solo existía porque no había otra forma.
+
+237
+00:06:58.259 --> 00:07:00.259
+Pregunta si debería seguir existiendo así.
+
+238
+00:07:00.259 --> 00:07:02.099
+Después, marca cada etapa:
+
+239
+00:07:02.099 --> 00:07:04.259
+persona, agente o automatización.
+
+240
+00:07:04.259 --> 00:07:05.159
+Y dale un color:
+
+241
+00:07:05.159 --> 00:07:07.179
+en verde, el agente lo resuelve;
+
+242
+00:07:07.179 --> 00:07:09.039
+en amarillo, lo prepara para que alguien
+
+243
+00:07:09.039 --> 00:07:10.339
+lo apruebe; en rojo,
+
+244
+00:07:10.339 --> 00:07:11.319
+se lo pasa al gerente.
+
+245
+00:07:11.319 --> 00:07:12.339
+Con eso en mano,
+
+246
+00:07:12.339 --> 00:07:14.259
+entra a la formación por el módulo
+
+247
+00:07:14.259 --> 00:07:15.479
+que responde a tu duda.
+
+248
+00:07:15.479 --> 00:07:17.519
+En resumen: crear agentes es fácil,
+
+249
+00:07:17.519 --> 00:07:20.699
+y gestionarlos es el trabajo de 2027.
+
+250
+00:07:20.699 --> 00:07:21.819
+Gestión de personas,
+
+251
+00:07:21.819 --> 00:07:23.079
+más gestión de procesos,
+
+252
+00:07:23.079 --> 00:07:24.259
+más gestión de agentes.
+
+253
+00:07:24.259 --> 00:07:26.059
+Ocho competencias, diez módulos,
+
+254
+00:07:26.059 --> 00:07:27.659
+cursos y proyectos abiertos.
+
+255
+00:07:27.659 --> 00:07:29.219
+Es gestión, no solo tecnología.
+
+256
+00:07:29.219 --> 00:07:30.939
+Todo está en eventos punto inema punto
+
+257
+00:07:30.939 --> 00:07:33.819
+pro, barra gestao guion ia.
+
+258
+00:07:33.819 --> 00:07:35.626
+Y los cursos están en INEMA punto
+
+259
+00:07:35.626 --> 00:07:37.439
+club, abiertos y gratuitos.
+
+260
+00:07:37.439 --> 00:07:40.119
+Esta semana, empieza por desarmar un proceso.
+

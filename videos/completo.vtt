@@ -1,0 +1,1110 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:04.690
+Qualquer equipe hoje monta um agente numa tarde.
+
+2
+00:00:04.740 --> 00:00:07.410
+O que trava a empresa é gerenciar.
+
+3
+00:00:07.460 --> 00:00:11.330
+Em 2026, a gente aprendeu a criar agentes.
+
+4
+00:00:11.380 --> 00:00:14.770
+2027 é o ano de aprender a gerenciá-los.
+
+5
+00:00:14.820 --> 00:00:18.700
+E colocar agente num processo antigo só entrega o erro mais rápido.
+
+6
+00:00:18.997 --> 00:00:19.067
+entrega o erro mais rápido.
+
+7
+00:00:19.067 --> 00:00:20.667
+Oito competências,
+
+8
+00:00:20.667 --> 00:00:23.367
+dez módulos, cursos e projetos abertos e
+
+9
+00:00:23.367 --> 00:00:23.907
+de graça.
+
+10
+00:00:23.907 --> 00:00:26.387
+Neste vídeo eu mostro o que muda
+
+11
+00:00:26.387 --> 00:00:28.587
+na gestão, o que cada curso ensina,
+
+12
+00:00:28.587 --> 00:00:30.527
+o que são os projetos e como
+
+13
+00:00:30.527 --> 00:00:31.607
+usar no seu trabalho,
+
+14
+00:00:31.607 --> 00:00:33.807
+na sua equipe e na sua empresa.
+
+15
+00:00:33.807 --> 00:00:35.787
+E no fim você sai com o
+
+16
+00:00:35.787 --> 00:00:37.967
+primeiro exercício para esta semana:
+
+17
+00:00:37.967 --> 00:00:40.067
+um processo desmontado.
+
+18
+00:00:40.087 --> 00:00:42.427
+A gestão ganhou um terceiro objeto.
+
+19
+00:00:42.427 --> 00:00:44.680
+De mil novecentos e oitenta a dois
+
+20
+00:00:44.680 --> 00:00:46.367
+mil, gestão de pessoas:
+
+21
+00:00:46.367 --> 00:00:47.287
+cargo,
+
+22
+00:00:47.287 --> 00:00:48.487
+responsabilidade,
+
+23
+00:00:48.627 --> 00:00:50.507
+limites e avaliação.
+
+24
+00:00:50.507 --> 00:00:52.403
+De dois mil a dois mil e
+
+25
+00:00:52.403 --> 00:00:54.067
+vinte, gestão de processos.
+
+26
+00:00:54.067 --> 00:00:55.087
+Depois,
+
+27
+00:00:55.087 --> 00:00:57.467
+transformação digital e automação.
+
+28
+00:00:57.467 --> 00:00:59.707
+Em 2025 e 2026,
+
+29
+00:00:59.707 --> 00:01:00.727
+construção
+
+30
+00:01:00.727 --> 00:01:02.347
+de agentes: prompts,
+
+31
+00:01:02.347 --> 00:01:05.267
+skills, contexto, ferramentas e memória.
+
+32
+00:01:05.267 --> 00:01:06.727
+Em 2027,
+
+33
+00:01:06.727 --> 00:01:09.507
+a empresa coordena ao mesmo tempo humanos,
+
+34
+00:01:09.507 --> 00:01:10.607
+agentes,
+
+35
+00:01:10.607 --> 00:01:12.527
+modelos, processos
+
+36
+00:01:12.527 --> 00:01:14.087
+e orçamento computacional.
+
+37
+00:01:14.087 --> 00:01:16.087
+Criar agentes ficou fácil.
+
+38
+00:01:16.087 --> 00:01:17.587
+O que trava é o que vem
+
+39
+00:01:17.587 --> 00:01:19.587
+depois: quem responde por ele,
+
+40
+00:01:19.587 --> 00:01:21.247
+o que ele pode fazer sozinho,
+
+41
+00:01:21.247 --> 00:01:23.247
+como se mede se está bom e
+
+42
+00:01:23.247 --> 00:01:25.167
+quanto custa cada resultado.
+
+43
+00:01:25.167 --> 00:01:27.327
+Gerenciar agentes se parece muito com a
+
+44
+00:01:27.327 --> 00:01:28.467
+velha gestão de pessoas,
+
+45
+00:01:28.467 --> 00:01:30.107
+só que com mais medida.
+
+46
+00:01:30.107 --> 00:01:31.447
+Trocam-se as palavras,
+
+47
+00:01:31.447 --> 00:01:32.500
+não a lógica.
+
+48
+00:01:32.500 --> 00:01:34.147
+Para o funcionário havia cargo,
+
+49
+00:01:34.147 --> 00:01:35.347
+responsabilidade,
+
+50
+00:01:35.667 --> 00:01:36.787
+ferramentas,
+
+51
+00:01:36.787 --> 00:01:38.767
+limites e avaliação.
+
+52
+00:01:38.767 --> 00:01:39.827
+Para o agente:
+
+53
+00:01:39.827 --> 00:01:40.727
+papel,
+
+54
+00:01:40.727 --> 00:01:41.787
+objetivo,
+
+55
+00:01:41.787 --> 00:01:43.607
+contexto, ferramentas,
+
+56
+00:01:43.607 --> 00:01:45.447
+autonomia e avaliação.
+
+57
+00:01:45.447 --> 00:01:46.587
+Os mesmos itens,
+
+58
+00:01:46.587 --> 00:01:50.507
+mais dois: contexto explícito e autonomia graduada.
+
+59
+00:01:50.507 --> 00:01:51.687
+Veja na prática.
+
+60
+00:01:51.687 --> 00:01:53.787
+No contábil, quem lança não aprova:
+
+61
+00:01:53.787 --> 00:01:55.387
+o agente vai até a porta da
+
+62
+00:01:55.387 --> 00:01:57.087
+assinatura, nunca além.
+
+63
+00:01:57.087 --> 00:01:59.307
+No jurídico, o agente prepara,
+
+64
+00:01:59.307 --> 00:02:01.067
+e o advogado decide e assina.
+
+65
+00:02:01.067 --> 00:02:04.167
+Na saúde, algumas decisões ficam fora da
+
+66
+00:02:04.167 --> 00:02:05.067
+alçada do agente,
+
+67
+00:02:05.067 --> 00:02:07.677
+e esse limite é decidido antes de
+
+68
+00:02:07.677 --> 00:02:08.027
+ligá-lo.
+
+69
+00:02:08.027 --> 00:02:10.027
+Agora a mensagem mais difícil:
+
+70
+00:02:10.027 --> 00:02:12.867
+não coloque agentes para executar processos antigos
+
+71
+00:02:12.867 --> 00:02:14.007
+mais rápido.
+
+72
+00:02:14.007 --> 00:02:16.487
+Redesenhe a empresa para a velocidade deles.
+
+73
+00:02:16.487 --> 00:02:18.127
+A pergunta que muda tudo é:
+
+74
+00:02:18.127 --> 00:02:19.767
+se eu tivesse humanos,
+
+75
+00:02:19.767 --> 00:02:22.207
+agentes e automações disponíveis hoje,
+
+76
+00:02:22.207 --> 00:02:24.667
+esse processo ainda existiria desse jeito?
+
+77
+00:02:24.667 --> 00:02:25.747
+Três regras.
+
+78
+00:02:25.747 --> 00:02:27.687
+Não automatize um processo ruim:
+
+79
+00:02:27.687 --> 00:02:30.287
+antes, desmonte o que existe só por
+
+80
+00:02:30.287 --> 00:02:30.587
+hábito.
+
+81
+00:02:30.587 --> 00:02:33.447
+Humanos dirigem, agentes executam:
+
+82
+00:02:33.447 --> 00:02:34.647
+decida,
+
+83
+00:02:35.307 --> 00:02:36.707
+etapa por etapa,
+
+84
+00:02:36.707 --> 00:02:38.317
+quem faz o quê.
+
+85
+00:02:38.317 --> 00:02:40.707
+E promover e reverter são etapas,
+
+86
+00:02:40.707 --> 00:02:43.267
+não acidentes: o processo tem versão,
+
+87
+00:02:43.267 --> 00:02:44.347
+como software.
+
+88
+00:02:44.347 --> 00:02:45.947
+É o LOOP-R:
+
+89
+00:02:45.947 --> 00:02:47.147
+executar,
+
+90
+00:02:47.187 --> 00:02:48.227
+observar,
+
+91
+00:02:48.227 --> 00:02:49.307
+criticar,
+
+92
+00:02:49.307 --> 00:02:50.267
+propor,
+
+93
+00:02:50.267 --> 00:02:51.407
+experimentar,
+
+94
+00:02:51.407 --> 00:02:52.467
+validar,
+
+95
+00:02:52.467 --> 00:02:54.657
+promover e repetir.
+
+96
+00:02:54.657 --> 00:02:55.947
+Tem também a cultura.
+
+97
+00:02:55.947 --> 00:02:58.347
+A Anthropic constrói duas culturas ao mesmo
+
+98
+00:02:58.347 --> 00:02:59.807
+tempo: uma
+
+99
+00:02:59.807 --> 00:03:02.247
+para as pessoas e outra para a
+
+100
+00:03:02.247 --> 00:03:03.587
+própria IA.
+
+101
+00:03:03.587 --> 00:03:05.367
+Em janeiro de 2026,
+
+102
+00:03:05.367 --> 00:03:07.647
+ela publicou uma constituição para o Claude,
+
+103
+00:03:07.647 --> 00:03:10.527
+com valores, prioridades e o porquê de
+
+104
+00:03:10.527 --> 00:03:11.427
+cada um.
+
+105
+00:03:11.427 --> 00:03:12.387
+Na sua empresa,
+
+106
+00:03:12.387 --> 00:03:14.127
+isso vira três práticas.
+
+107
+00:03:14.127 --> 00:03:16.087
+Escreva uma constituição por agente:
+
+108
+00:03:16.087 --> 00:03:17.787
+uma página com missão,
+
+109
+00:03:17.787 --> 00:03:18.727
+limites
+
+110
+00:03:18.727 --> 00:03:20.867
+e quando escalar.
+
+111
+00:03:20.887 --> 00:03:21.807
+Limite em verde,
+
+112
+00:03:21.807 --> 00:03:22.647
+amarelo e vermelho:
+
+113
+00:03:22.647 --> 00:03:24.267
+o que ele resolve sozinho,
+
+114
+00:03:24.267 --> 00:03:26.467
+o que prepara para alguém aprovar e
+
+115
+00:03:26.467 --> 00:03:27.947
+o que passa direto ao gerente.
+
+116
+00:03:27.947 --> 00:03:31.127
+E meça com casos de teste:
+
+117
+00:03:31.127 --> 00:03:33.307
+revisão que não melhora a nota nos
+
+118
+00:03:33.307 --> 00:03:35.807
+mesmos casos não melhorou o agente.
+
+119
+00:03:35.807 --> 00:03:37.887
+Para medir o seu ponto de partida,
+
+120
+00:03:37.887 --> 00:03:40.067
+a área traz as oito competências do
+
+121
+00:03:40.067 --> 00:03:41.567
+gestor de IA,
+
+122
+00:03:41.567 --> 00:03:43.687
+na ordem em que você usa.
+
+123
+00:03:43.687 --> 00:03:45.967
+As quatro primeiras decidem o que o
+
+124
+00:03:45.967 --> 00:03:47.547
+agente vai fazer.
+
+125
+00:03:47.647 --> 00:03:50.047
+Estratégia: qual resultado queremos,
+
+126
+00:03:50.047 --> 00:03:52.647
+antes de escolher a ferramenta.
+
+127
+00:03:52.647 --> 00:03:53.847
+Arquitetura
+
+128
+00:03:53.867 --> 00:03:56.527
+do trabalho: esse processo ainda deveria existir?
+
+129
+00:03:56.527 --> 00:03:59.387
+Delegação: o que exatamente entrego ao agente,
+
+130
+00:03:59.387 --> 00:04:00.687
+com objetivo, contexto,
+
+131
+00:04:00.687 --> 00:04:01.807
+ferramentas,
+
+132
+00:04:01.807 --> 00:04:03.547
+prazo e evidência de conclusão.
+
+133
+00:04:03.547 --> 00:04:06.507
+E orquestração: um agente ou vários,
+
+134
+00:04:06.507 --> 00:04:08.007
+em série ou em paralelo,
+
+135
+00:04:08.007 --> 00:04:10.167
+com um supervisor ou um revisor.
+
+136
+00:04:10.327 --> 00:04:12.727
+As quatro últimas decidem se ele continua
+
+137
+00:04:12.727 --> 00:04:13.927
+fazendo.
+
+138
+00:04:14.327 --> 00:04:16.287
+Governança: o que ele faz sozinho,
+
+139
+00:04:16.287 --> 00:04:18.087
+o que confirma e o que jamais
+
+140
+00:04:18.087 --> 00:04:19.287
+executa.
+
+141
+00:04:19.647 --> 00:04:22.187
+Economia: quanto custa produzir o resultado,
+
+142
+00:04:22.187 --> 00:04:23.987
+e não quanto custa uma chamada.
+
+143
+00:04:23.987 --> 00:04:26.107
+Um agente barato que erra e precisa
+
+144
+00:04:26.107 --> 00:04:28.207
+de duas tentativas custou
+
+145
+00:04:28.207 --> 00:04:29.367
+o dobro da tabela.
+
+146
+00:04:29.367 --> 00:04:31.147
+Isso é conta de gestor,
+
+147
+00:04:31.147 --> 00:04:33.167
+não de programador.
+
+148
+00:04:33.607 --> 00:04:34.827
+Avaliação: está bom,
+
+149
+00:04:34.827 --> 00:04:35.787
+comparado a quê?
+
+150
+00:04:35.787 --> 00:04:36.987
+Qualidade,
+
+151
+00:04:37.007 --> 00:04:40.087
+tempo, custo, retrabalho e quanto ele fez
+
+152
+00:04:40.087 --> 00:04:40.747
+sem parar.
+
+153
+00:04:40.747 --> 00:04:43.787
+E evolução: o que aprendemos nesta execução?
+
+154
+00:04:43.787 --> 00:04:45.147
+Agora os cursos.
+
+155
+00:04:45.147 --> 00:04:47.187
+A espinha dorsal é o curso Gestão
+
+156
+00:04:47.187 --> 00:04:48.447
+de IA:
+
+157
+00:04:49.307 --> 00:04:51.387
+delegação, responsabilidade, memória,
+
+158
+00:04:51.387 --> 00:04:54.867
+ferramentas, autonomia, confiança e avaliação de agentes.
+
+159
+00:04:54.867 --> 00:04:57.627
+Para começar, Os Super-Agentes Chegaram,
+
+160
+00:04:57.627 --> 00:04:58.747
+em seis aulas,
+
+161
+00:04:58.747 --> 00:05:00.947
+mostra o que muda no seu trabalho
+
+162
+00:05:00.947 --> 00:05:04.187
+quando a IA deixa de esperar ordens.
+
+163
+00:05:04.187 --> 00:05:05.387
+Super-Agentes,
+
+164
+00:05:05.527 --> 00:05:08.867
+da IA que responde à IA que
+
+165
+00:05:08.867 --> 00:05:10.467
+trabalha, em oito aulas,
+
+166
+00:05:10.467 --> 00:05:13.227
+é para quem decide qual responsabilidade entregar,
+
+167
+00:05:13.227 --> 00:05:16.287
+com alçada, matriz de autonomia e ficha
+
+168
+00:05:16.287 --> 00:05:17.067
+de confiança.
+
+169
+00:05:17.067 --> 00:05:19.507
+E o Arquiteto de Trabalho com IA,
+
+170
+00:05:19.507 --> 00:05:20.767
+também em oito aulas,
+
+171
+00:05:20.767 --> 00:05:23.807
+redesenha processos para humanos dirigirem e agentes
+
+172
+00:05:23.807 --> 00:05:24.760
+executarem.
+
+173
+00:05:24.760 --> 00:05:25.967
+Para a evolução,
+
+174
+00:05:25.967 --> 00:05:28.207
+o LOOP-R ensina a empresa que aprende
+
+175
+00:05:28.207 --> 00:05:30.487
+sozinha: é o módulo dez inteiro.
+
+176
+00:05:30.487 --> 00:05:32.147
+Para economia e governança,
+
+177
+00:05:32.147 --> 00:05:33.347
+Copilot
+
+178
+00:05:33.687 --> 00:05:36.247
+mais Agentes para Empresas vai do trabalho
+
+179
+00:05:36.247 --> 00:05:39.787
+com IA à automação dos processos corporativos,
+
+180
+00:05:39.787 --> 00:05:41.447
+com indicadores
+
+181
+00:05:41.447 --> 00:05:42.547
+e governança.
+
+182
+00:05:42.547 --> 00:05:44.227
+Os Cadernos de Clínica,
+
+183
+00:05:44.227 --> 00:05:47.247
+Contábil e Advocacia mostram
+
+184
+00:05:47.247 --> 00:05:50.367
+limites, alçadas e revisão humana em três
+
+185
+00:05:50.367 --> 00:05:51.567
+profissões.
+
+186
+00:05:51.807 --> 00:05:54.107
+E Empresas de 2027,
+
+187
+00:05:54.107 --> 00:05:56.387
+em nove aulas de quinze minutos,
+
+188
+00:05:56.387 --> 00:05:59.287
+vai do caso Anthropic à constituição do
+
+189
+00:05:59.287 --> 00:05:59.947
+seu agente.
+
+190
+00:05:59.947 --> 00:06:02.567
+Onde aplicar: liderando uma equipe,
+
+191
+00:06:02.567 --> 00:06:03.527
+redesenhando
+
+192
+00:06:03.527 --> 00:06:05.687
+a sua área ou ajudando outra empresa
+
+193
+00:06:05.687 --> 00:06:06.047
+a começar.
+
+194
+00:06:06.047 --> 00:06:07.847
+E os projetos,
+
+195
+00:06:07.847 --> 00:06:09.887
+abertos e com guia.
+
+196
+00:06:09.887 --> 00:06:12.327
+O Gestoria é um simulador de gestão
+
+197
+00:06:12.327 --> 00:06:13.787
+de empresa agêntica:
+
+198
+00:06:14.087 --> 00:06:15.987
+objetivos, agentes,
+
+199
+00:06:15.987 --> 00:06:17.047
+processos,
+
+200
+00:06:17.047 --> 00:06:18.007
+custos,
+
+201
+00:06:18.007 --> 00:06:19.767
+erros, aprovações
+
+202
+00:06:19.767 --> 00:06:20.647
+e melhorias.
+
+203
+00:06:20.647 --> 00:06:22.647
+É o projeto final da formação.
+
+204
+00:06:22.647 --> 00:06:25.187
+O LOOP-R tem o projeto com guia
+
+205
+00:06:25.187 --> 00:06:26.667
+para instalar o ciclo de melhoria.
+
+206
+00:06:26.667 --> 00:06:29.967
+O Arquiteto de Execução decide entre paralelo
+
+207
+00:06:29.967 --> 00:06:33.727
+e sequencial, com supervisor ou revisor.
+
+208
+00:06:33.727 --> 00:06:36.047
+O Kit do Arquiteto de Agentes tem
+
+209
+00:06:36.047 --> 00:06:38.567
+sete modelos que viram a especificação de
+
+210
+00:06:38.567 --> 00:06:39.747
+um agente numa página:
+
+211
+00:06:39.747 --> 00:06:41.287
+é a ficha de delegação.
+
+212
+00:06:41.287 --> 00:06:43.547
+O Agentic OS organiza
+
+213
+00:06:43.547 --> 00:06:46.487
+agentes, skills e processos num lugar só.
+
+214
+00:06:46.487 --> 00:06:48.547
+E o kit do Copilot mais Agentes
+
+215
+00:06:48.547 --> 00:06:51.407
+traz materiais prontos para a sua empresa.
+
+216
+00:06:51.407 --> 00:06:52.687
+Como juntar tudo?
+
+217
+00:06:52.687 --> 00:06:54.927
+A Formação Gestão de IA
+
+218
+00:06:54.927 --> 00:06:55.867
+2027
+
+219
+00:06:55.867 --> 00:06:57.067
+organiza
+
+220
+00:06:57.087 --> 00:06:58.087
+isso em dez módulos:
+
+221
+00:06:58.087 --> 00:06:59.307
+da empresa agêntica,
+
+222
+00:06:59.307 --> 00:07:01.327
+passando por processo não é sagrado,
+
+223
+00:07:01.327 --> 00:07:02.647
+equipe de agentes,
+
+224
+00:07:02.647 --> 00:07:04.467
+delegação, economia,
+
+225
+00:07:04.467 --> 00:07:05.407
+governança
+
+226
+00:07:05.407 --> 00:07:06.967
+e gestão por evidência,
+
+227
+00:07:06.967 --> 00:07:09.987
+até a empresa que aprende.
+
+228
+00:07:09.987 --> 00:07:11.167
+No projeto final,
+
+229
+00:07:11.167 --> 00:07:14.167
+no Gestoria, você pega um processo e
+
+230
+00:07:14.167 --> 00:07:15.967
+percorre catorze passos:
+
+231
+00:07:15.967 --> 00:07:17.007
+entende o objetivo,
+
+232
+00:07:17.007 --> 00:07:18.967
+elimina etapas, redesenha,
+
+233
+00:07:18.967 --> 00:07:20.927
+divide entre pessoas e agentes,
+
+234
+00:07:20.927 --> 00:07:23.287
+define permissões, custos e métricas,
+
+235
+00:07:23.287 --> 00:07:24.267
+executa,
+
+236
+00:07:24.267 --> 00:07:26.947
+avalia e melhora com o LOOP-R.
+
+237
+00:07:26.947 --> 00:07:30.767
+Estado honesto: a formação é o empacotamento
+
+238
+00:07:30.767 --> 00:07:32.287
+de uma tese.
+
+239
+00:07:32.387 --> 00:07:33.437
+Entre
+
+240
+00:07:33.437 --> 00:07:34.507
+setenta e cinco e oitenta por cento
+
+241
+00:07:34.507 --> 00:07:37.407
+da base já existe nos cursos abertos.
+
+242
+00:07:37.407 --> 00:07:39.647
+Então o caminho hoje é entrar pelos
+
+243
+00:07:39.647 --> 00:07:41.887
+cursos, na ordem dos módulos.
+
+244
+00:07:41.887 --> 00:07:43.067
+Prometi no começo.
+
+245
+00:07:43.067 --> 00:07:45.347
+O melhor primeiro módulo é um processo
+
+246
+00:07:45.347 --> 00:07:46.507
+da sua empresa.
+
+247
+00:07:46.507 --> 00:07:48.647
+Pegue um processo que hoje roda com
+
+248
+00:07:48.647 --> 00:07:49.727
+pessoas.
+
+249
+00:07:49.727 --> 00:07:51.867
+Desmonte: o que existe por hábito,
+
+250
+00:07:51.867 --> 00:07:54.327
+o que é exigência real e o
+
+251
+00:07:54.327 --> 00:07:56.147
+que só existia porque não havia outra
+
+252
+00:07:56.147 --> 00:07:56.947
+forma.
+
+253
+00:07:56.947 --> 00:07:59.567
+Pergunte se ele ainda deveria existir desse
+
+254
+00:07:59.567 --> 00:08:00.167
+jeito.
+
+255
+00:08:00.167 --> 00:08:02.167
+Depois marque cada etapa:
+
+256
+00:08:02.167 --> 00:08:04.827
+pessoa, agente ou automação.
+
+257
+00:08:04.827 --> 00:08:05.947
+E dê a cor:
+
+258
+00:08:05.947 --> 00:08:07.927
+no verde, o agente resolve;
+
+259
+00:08:07.927 --> 00:08:10.327
+no amarelo, prepara para alguém aprovar;
+
+260
+00:08:10.327 --> 00:08:12.267
+no vermelho, passa ao gerente.
+
+261
+00:08:12.267 --> 00:08:13.447
+Com isso em mãos,
+
+262
+00:08:13.447 --> 00:08:15.947
+entre na formação pelo módulo que responde
+
+263
+00:08:15.947 --> 00:08:16.967
+à sua dúvida.
+
+264
+00:08:16.967 --> 00:08:19.847
+Recapitulando: criar agentes ficou fácil,
+
+265
+00:08:19.847 --> 00:08:22.687
+e gerenciar é o trabalho de 2027.
+
+266
+00:08:22.687 --> 00:08:24.047
+Gestão de pessoas,
+
+267
+00:08:24.047 --> 00:08:25.567
+mais gestão de processos,
+
+268
+00:08:25.567 --> 00:08:27.147
+mais gestão de agentes.
+
+269
+00:08:27.147 --> 00:08:28.397
+Oito competências,
+
+270
+00:08:28.397 --> 00:08:31.107
+dez módulos, cursos e projetos abertos.
+
+271
+00:08:31.107 --> 00:08:33.927
+É gestão, não só tecnologia.
+
+272
+00:08:33.927 --> 00:08:35.467
+Tudo está em eventos ponto inema ponto
+
+273
+00:08:35.467 --> 00:08:36.887
+pro, barra
+
+274
+00:08:36.887 --> 00:08:39.087
+gestão traço ia.
+
+275
+00:08:39.087 --> 00:08:41.027
+E os cursos ficam no INEMA ponto
+
+276
+00:08:41.027 --> 00:08:43.547
+club, abertos e gratuitos.
+
+277
+00:08:43.547 --> 00:08:45.847
+Comece esta semana por um processo desmontado.
+
